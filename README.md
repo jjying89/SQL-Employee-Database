@@ -18,5 +18,12 @@ Create ERD and database of employees to answer the following questions:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+Queries can be viewed [here](https://github.com/jjying89/sql-challenge/blob/main/sql-challenge.sql).
 
+## Analysis and Screenshots
 
+<img src="https://github.com/jjying89/sql-challenge/blob/main/QuickDBD-sql-challenge.png" width="600">
+
+<img src="https://github.com/jjying89/sql-challenge/blob/main/salary_count.PNG" width="500">
+
+<img src="https://github.com/jjying89/sql-challenge/blob/main/salary_title.PNG" width="500">
